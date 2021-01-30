@@ -1,4 +1,4 @@
-# importing libraries
+#importing libraries and packages
 from keras.preprocessing.image import ImageDataGenerator
 from keras.applications import MobileNetV2
 from keras.layers import AveragePooling2D
